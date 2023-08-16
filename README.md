@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory (Oracle VirtualBox)|Add Users w/PowerShell</b>
-  - [PowerShell Basic Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [PowerShell Basic Home Lab](https://github.com/SCarew14/Active-Directory-Oracle-VirtualBox-)
 - <b>File Integrity Monitor (FIM)</b>
   - [Algorithms + Coding](https://github.com/SCarew14/File-Integrity-Monitor) <b><i>
 - <b>Vulnerability Management</b>
