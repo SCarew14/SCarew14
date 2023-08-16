@@ -7,7 +7,7 @@
 - <b>File Integrity Monitor (FIM)</b>
   - [Algorithms + Coding](https://github.com/SCarew14/File-Integrity-Monitor) <b><i>
 - <b>Vulnerability Management</b>
-  - [Nessus Essentials Scanner](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Nessus Essentials Scanner](https://github.com/SCarew14/Vulnerability-Management-Nessus)
 
 
 <h2>📜 Certifications</h2>
