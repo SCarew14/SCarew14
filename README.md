@@ -15,6 +15,7 @@
 - [CompTIA Security Analytics Professional](https://www.credly.com/badges/afb4e626-73ca-4874-9650-b5a00e1a3515/public_url)
 - [CompTIA Security+ ce](https://www.credly.com/badges/62a36336-c5cb-4105-a85c-6f825fc6c8a8/public_url)
 - [CompTIA CySA+ ce](https://www.credly.com/badges/5f26e6e5-5077-409a-8f93-eab5f558b7c5/public_url)
+- [CompTIA Network+ ce](https://www.credly.com/badges/e7757055-9c2e-42f7-8cf0-4a9ac0d24f24/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
